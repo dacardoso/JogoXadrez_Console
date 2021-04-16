@@ -2,7 +2,6 @@
 {
         enum Cor
         {
-
             Branca,
             Preta,
             Amarela,
