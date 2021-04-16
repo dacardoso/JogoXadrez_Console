@@ -13,6 +13,7 @@
             this.cor = cor;
             this.tab = tab;
             this.qteMovimentos = 0;
-        }
+        }      
     }
+
 }
